@@ -1,0 +1,22 @@
+body{
+    background-image: url(image.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover
+}
+
+#clock-container{
+    align-items: center;
+    text-align: center;
+    padding: 220px;
+}
+
+#clock{
+    background-color: rgb(90, 163, 192);
+    font-size: 1em;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: black;
+    border-radius: 10px;
+}
